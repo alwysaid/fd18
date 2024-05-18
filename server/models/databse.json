@@ -1,0 +1,27 @@
+{
+    "dataUser" : 
+        [
+            {
+                "name" :"satria",
+                "age" : 28
+
+            },
+            {
+                "name" :"alwy",
+                "age" : 22
+
+            },
+            {
+                "name" :"rio",
+                "age" : 23
+
+            },
+            {
+                "name" :"hafidz",
+                "age" : 29
+
+            },
+        ]
+
+
+}
